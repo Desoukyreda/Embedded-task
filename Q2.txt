@@ -1,0 +1,6 @@
+%u is used to print an unsigned value .
+if you want to print adress use %p .
+
+arr and &arr[0] point to adress of the frist element .
+
+&arr point to the adress of the array .
